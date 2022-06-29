@@ -2,3 +2,28 @@
     height: auto;
     width: 500px;
 }
+
+.background {
+    background-image: url(https://cdn.mos.cms.futurecdn.net/hjDJTnHowdhwDYKGWHDabM.jpg);
+}
+.background2 {
+    background-image: url(https://www.captainturtle.fr/wp-content/uploads/2015/02/better-call-saul-serie.jpg);
+}
+
+.background3 {
+    background-image: url(https://vistapointe.net/images/better-call-saul-6.jpg);
+}
+
+.background4 {
+    background-image: url(https://images8.alphacoders.com/569/569844.jpg);
+}
+
+.title {
+    font-family: 'script1-script-casual-normal', sans-serif;
+    font-size: 52px;
+    color: yellowgreen;
+}
+
+.link {
+    font-size: 50px;
+}
