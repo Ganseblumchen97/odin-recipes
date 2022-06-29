@@ -7,23 +7,27 @@
     background-image: url(https://cdn.mos.cms.futurecdn.net/hjDJTnHowdhwDYKGWHDabM.jpg);
 }
 .background2 {
-    background-image: url(https://www.captainturtle.fr/wp-content/uploads/2015/02/better-call-saul-serie.jpg);
+    background-image: url(https://wallpaperaccess.com/full/2752596.jpg);
 }
 
 .background3 {
-    background-image: url(https://vistapointe.net/images/better-call-saul-6.jpg);
+    background-image: url(https://i.pinimg.com/originals/ae/7c/dd/ae7cdd063e551d079f9be51d2b4ac6d4.jpg);
 }
 
 .background4 {
-    background-image: url(https://images8.alphacoders.com/569/569844.jpg);
+    background-image: url(https://wallpaper-mania.com/wp-content/uploads/2018/09/High_resolution_wallpaper_background_ID_77701423744.jpg);
 }
 
 .title {
     font-family: 'script1-script-casual-normal', sans-serif;
     font-size: 52px;
-    color: yellowgreen;
+    color: black;
 }
 
 .link {
     font-size: 50px;
+}
+
+body {
+    color: aquamarine;
 }
